@@ -8,5 +8,5 @@ A clinician has rated the presence of diabetic retinopathy in each image on a sc
   <li> 3 - Severe </li>
   <li> 4 - Proliferative DR </li>
  </ul>
- 
-![5_levels](https://user-images.githubusercontent.com/41645324/173077933-ee3bd7a3-2e4f-4560-91ae-5c39371bd551.png)
+ ![download](https://user-images.githubusercontent.com/41645324/173080072-375dd43e-3a19-4d70-bb97-f9231d8e62d8.png)
+
